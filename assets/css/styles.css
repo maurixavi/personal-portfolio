@@ -607,8 +607,8 @@ img {
   column-gap: 1rem;
 }
 
-/*=============== SERVICES ===============*/
-.services__container{
+/*=============== SKILL ===============*/
+.skills__container{
   grid-template-columns: 250px;
   justify-content: center;
   row-gap: 2rem;
@@ -616,11 +616,11 @@ img {
   margin-bottom: 2rem;
 }
 
-.services__card{
+.skills__card{
   position: relative;
 }
 
-.services__content{
+.skills__content{
   height: 100%;
   background-color: var(--body-color);
   border: 4px solid var(--black-color);
@@ -630,7 +630,7 @@ img {
   transition: background-color .4s, border .4s;
 }
 
-.services__border{
+.skills__border{
   position: absolute;
   width: 100%;
   height: 100%;
@@ -640,23 +640,23 @@ img {
   transition: transform .4s;
 }
 
-.services__card:hover .services__border{
+.skills__card:hover .skills__border{
   transform: translate(.75rem, .75rem);
 }
 
-.services__icon{
+.skills__icon{
   position: relative;
   display: inline-block;
 }
 
-.services__icon i{
+.skills__icon i{
   font-size: 2rem;
   color: var(--black-color);
   position: relative;
   z-index: 5;
 }
 
-.services__box{
+.skills__box{
   position: absolute;
   width: 24px;
   height: 24px;
@@ -665,7 +665,7 @@ img {
   top: -2px;
 }
 
-.services__title{
+.skills__title{
   font-size: var(--h2-font-size);
   margin-bottom: 1.25rem;
 }
@@ -1087,7 +1087,7 @@ img {
 }
 
 @media screen and (min-width: 768px){
-  .services__container{
+  .skills__container{
     grid-template-columns: repeat(2, 260px);
   }
 
@@ -1098,7 +1098,7 @@ img {
 
 
 @media screen and (min-width: 900px){
-  .services__container{
+  .skills__container{
     grid-template-columns: repeat(3, 250px);
   }
 
@@ -1109,7 +1109,7 @@ img {
 
 
 @media screen and (min-width: 1300px){
-  .services__container{
+  .skills__container{
     grid-template-columns: repeat(3, 280px);
   }
 
