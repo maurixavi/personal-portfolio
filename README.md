@@ -4,9 +4,7 @@ Welcome to my personal portfolio! This is a showcase of my work, skills, and pro
 
 ## About Me
 
-'m a dedicated Software Engineering student on the cusp of completing my degree. With a solid foundation in engineering principles and a knack for innovative problem-solving, I'm well-equipped to tackle the challenges of web development as well as diverse domains within the field of software engineering.
-
-I am a passionate [your profession/field] with a love for [your interests or specialties]. I enjoy [mention any hobbies or interests] and I am dedicated to [mention your goals or aspirations].
+I'm a dedicated Software Engineering student on the cusp of completing my degree. With a solid foundation in engineering principles and a knack for innovative problem-solving, I'm well-equipped to tackle the challenges of web development as well as diverse domains within the field of software engineering.
 
 ## Get in Touch
 
