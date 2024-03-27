@@ -487,6 +487,14 @@ img {
   transition: background-color .4s;
 }
 
+.button__ghost{
+  padding: 1rem 1.25rem;
+  color: var(--white-color);
+  font-weight: var(--font-bold);
+  transition: background-color .4s;
+}
+
+
 .button i{
   font-size: 1.25rem;
 }
@@ -1340,4 +1348,12 @@ img {
     margin-left: -2.5rem;
   }
   
+}
+
+.iframe-container {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 900px; 
 }

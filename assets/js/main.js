@@ -96,12 +96,7 @@ const scrollUp = () => {
 
 window.addEventListener('scroll', scrollUp)
 
-/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-
-
-/*=============== DARK LIGHT THEME ===============*/ 
-
-
-/*=============== SCROLL REVEAL ANIMATION ===============*/
-
-
+/*=============== OTHER ===============*/
+document.getElementById('redirect-to-index').addEventListener('click', function() {
+    window.location.href = 'index.html';
+});
