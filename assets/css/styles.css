@@ -810,18 +810,25 @@ img {
   right: 2.5rem;
 }
 
-.contact__mail{
-  position: relative;
+.contact__mail {
   background-color: var(--black-color);
   padding: 5rem 1.5rem 2.5rem;
-  transition: background-color .4s;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;  
 }
 
-.contact__title{
-  color: var(--white-color);
+.contact__title {
+  color: var(--white-color);  
   font-size: var(--h2-font-size);
   margin-bottom: 2rem;
-  text-align: center;
+  text-align: center; 
+}
+
+.contact__form {
+  width: 100%;  
+  max-width: 720px;  
+  margin: 0 auto;  
 }
 
 .contact__form,
