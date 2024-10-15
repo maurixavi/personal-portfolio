@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio! This is a showcase of my work, skills, and projects. You can explore my portfolio by visiting the website [here](https://mauricioxavier.netlify.app).
+Welcome to my personal portfolio! This is a showcase of my work, skills, and projects. You can explore my portfolio by visiting the website [here](https://mauricioxavier.online).
 
 ## About Me
 
